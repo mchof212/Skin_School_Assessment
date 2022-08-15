@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6hFUXhZSZP6_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Skin_School_E_Learning_Assessment_ORG">
+    <organization identifier="Skin_School_E_Learning_Assessment_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Skin School E Learning Assessment</title>
+      <item identifier="Skin_School_E_Learning_Assessment_SCO" identifierref="__6hFUXhZSZP6_course_id_RES" isvisible="true">
+        <title>Skin School E Learning Assessment</title>
+        <imsss:sequencing>
+          <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true" />
+        </imsss:sequencing>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6hFUXhZSZP6_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6YOcgBZO1Jr_80_B-10_P_0_248_1664_1252_DX1580_DY1580_CX1138_CY856.png" />
+      <file href="mobile/6kLO8kXdc3W_80_DX334_DY334_CX261_CY100.png" />
+      <file href="mobile/6Ht68yqXEgC_80_DX1078_DY1078_CX846_CY588.png" />
+      <file href="story_content/video_66qcxwCDtWi_22_48_686x386.mp4" />
+      <file href="mobile/5tdcceEvBdw_X_80_DX1326_DY1326_CX1043_CY1031.png" />
+      <file href="mobile/6DmXzcW5Sg7_80_DX486_DY486_CX278_CY380.png" />
+      <file href="mobile/5WWoZRFqK2y_80_DX224_DY224_CX75_CY75.png" />
+      <file href="story_content/5iWm45ayodi_44100_48_0.mp3" />
+      <file href="story_content/6EuUC7IKRfQ_44100_48_0.mp3" />
+      <file href="story_content/5tEEmffv2Tz_44100_48_0.mp3" />
+      <file href="mobile/5r8yQGSBYfC_80_DX120_DY120_CX72_CY72.png" />
+      <file href="mobile/6F5mfROiSKv_80_DX90_DY90_CX70_CY69.png" />
+      <file href="story_content/64GKB07WZ7e_44100_48_0.mp3" />
+      <file href="mobile/5vphDCuPl1F_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6EeViBfuvQJ_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/66fcavQ8kj7_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6gDWiWS4DON_X_80_DX1326_DY1326_CX1043_CY1031.png" />
+      <file href="mobile/6Oh5uz74TSW_80_DX162_DY162_CX127_CY99.png" />
+      <file href="mobile/6RofJJkPyxW_80_DX154_DY154_CX120_CY113.png" />
+      <file href="mobile/5hJZjZB7clu_80_P_674_385_722_1274_DX358_DY358_CX100_CY176.png" />
+      <file href="mobile/5o1RePAEZ42_80_DX260_DY260_CX54_CY204.png" />
+      <file href="mobile/5XeteikMjCp_80_DX260_DY260_CX44_CY202.png" />
+      <file href="mobile/6empxda1033_80_DX260_DY260_CX57_CY204.png" />
+      <file href="mobile/6YctuaoI0MV_80_DX464_DY464_CX330_CY364.png" />
+      <file href="story_content/5xNKJqU088L_44100_48_0.mp3" />
+      <file href="mobile/5ZwUa2wXkf3_80_DX256_DY256_CX201_CY201.png" />
+      <file href="mobile/5nfdokVGWCi_80_DX256_DY256_CX201_CY201.png" />
+      <file href="mobile/5osPsCEfEU3_80_DX256_DY256_CX201_CY201.png" />
+      <file href="mobile/5WWoZRFqK2y_80_DX224_DY224_CX62_CY62.png" />
+      <file href="story_content/6jR5BtRxCI7_44100_48_0.mp3" />
+      <file href="story_content/5o8xZSSXwhn_44100_48_0.mp3" />
+      <file href="story_content/6Neq9SNlPJw_44100_48_0.mp3" />
+      <file href="mobile/5r8yQGSBYfC_80_DX120_DY120_CX62_CY62.png" />
+      <file href="story_content/62WmiDLOtE1_44100_48_0.mp3" />
+      <file href="mobile/6K7xsjQrxpO_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5Wgkb6JfHjq_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6SqszwKNTrb_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5sCS26nABxl_80_P_134_45_1348_1845_DX762_DY762_CX395_CY541.png" />
+      <file href="story_content/5VYzANL6kiu_44100_48_0.mp3" />
+      <file href="mobile/6mLoXxTfghb_80_DX192_DY192_CX151_CY151.png" />
+      <file href="mobile/5YqRbOLjipz_80_DX192_DY192_CX151_CY151.png" />
+      <file href="story_content/5trvr8x86aK_44100_48_0.mp3" />
+      <file href="mobile/5qHdU50T8pl_80_DX192_DY192_CX151_CY151.png" />
+      <file href="mobile/5uk0ABBgLuK_80_DX192_DY192_CX151_CY151.png" />
+      <file href="mobile/5x88GEqiQaQ_80_DX428_DY428_CX336_CY326.png" />
+      <file href="mobile/5og5Ht5jFGE_80_DX224_DY224_CX75_CY75.png" />
+      <file href="story_content/5YOdF90pwUS_44100_48_0.mp3" />
+      <file href="story_content/6Gmhhs4Sb2M_44100_48_0.mp3" />
+      <file href="story_content/6bK2bU3J9R8_44100_48_0.mp3" />
+      <file href="story_content/6KZQkkWnOk4_44100_48_0.mp3" />
+      <file href="story_content/5rzljC17puE_44100_48_0.mp3" />
+      <file href="story_content/5euDBjGpUWj_44100_48_0.mp3" />
+      <file href="story_content/5ZmzFdYAMk9_44100_48_0.mp3" />
+      <file href="story_content/6cM3CzWp22u_44100_48_0.mp3" />
+      <file href="story_content/5kyTYwVOktd_44100_48_0.mp3" />
+      <file href="story_content/61n1CDii8vN_44100_48_0.mp3" />
+      <file href="story_content/5c1WhpKYqTA_44100_48_0.mp3" />
+      <file href="story_content/6gZLJIGdBvi_44100_48_0.mp3" />
+      <file href="story_content/5y5Devs2fNr_44100_48_0.mp3" />
+      <file href="story_content/6QcZBLDhGBj_44100_48_0.mp3" />
+      <file href="mobile/5WWoZRFqK2y_80_DX224_DY224_CX138_CY138.png" />
+      <file href="mobile/5xfe7VTIyjL_Y_80_DX128_DY128_CX79_CY25.png" />
+      <file href="story_content/6cwnn7j6VQc_44100_48_0.mp3" />
+      <file href="mobile/5WWoZRFqK2y_80_DX224_DY224_CX176_CY176.png" />
+      <file href="mobile/5r8yQGSBYfC_80_DX120_DY120_CX94_CY94.png" />
+      <file href="story_content/6TGBJeL6u1b_44100_48_0.mp3" />
+      <file href="story_content/6LM5BdIhEgH_44100_48_0.mp3" />
+      <file href="story_content/6Ee1rCKPfXA_44100_48_0.mp3" />
+      <file href="story_content/6ZAchwOvqgB_44100_48_0.mp3" />
+      <file href="mobile/6a9MFTwSqzs_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6p3zEqgD5SO_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6jiDC85UqtW_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6F0S4sTdX5y_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="story_content/6nXWbMXtNMH_44100_48_0.mp3" />
+      <file href="story_content/6jHVWqp3YoK_44100_48_0.mp3" />
+      <file href="story_content/6bkAo40SLxH_44100_48_0.mp3" />
+      <file href="story_content/6ef9EGNpbvO_44100_48_0.mp3" />
+      <file href="mobile/6OUkZVEDL9L_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5t7HFiFzEIn_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6EpS4xZaWO3_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5cxRAdN7tuh_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5p2JFS2M5wv_80_DX532_DY532_CX416_CY339.png" />
+      <file href="story_content/63cAtSD8g5A_44100_48_0.mp3" />
+      <file href="story_content/5wgVnVPJMKS_44100_48_0.mp3" />
+      <file href="story_content/6K82qX9A7Dv_44100_48_0.mp3" />
+      <file href="story_content/5l5PBKscCyd_44100_48_0.mp3" />
+      <file href="mobile/6jOW8g6CPSl_80_DX640_DY640_CX284_CY502.png" />
+      <file href="story_content/5XM9HSY4P5L_44100_48_0.mp3" />
+      <file href="story_content/607NPZlNe6r_44100_48_0.mp3" />
+      <file href="mobile/6195p7HBNJX_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5VIK6js5sYE_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5rVUUhldOkI_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6G6vdw2Zplf_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6RIUQbB8FUP_80_DX618_DY618_CX343_CY486.png" />
+      <file href="story_content/5dl9eBmQLsm_44100_48_0.mp3" />
+      <file href="story_content/6NOXQwyRY23_44100_48_0.mp3" />
+      <file href="story_content/6VQx5iwTPm8_44100_48_0.mp3" />
+      <file href="story_content/6XrtTbaAkKp_44100_48_0.mp3" />
+      <file href="mobile/65jaV6EDAbl_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6p7vmxNdurI_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/6GqfAxUF3Pk_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5WhXpMo8jvY_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="story_content/61FX9Kfm9Q9_44100_48_0.mp3" />
+      <file href="mobile/6Xl0eDRDDeO_80_P_887_0_1160_1152_DX870_DY870_CX388_CY385.png" />
+      <file href="story_content/5lUssocoRy3_44100_48_0.mp3" />
+      <file href="story_content/6dktELI9IOD_44100_48_0.mp3" />
+      <file href="mobile/5xfe7VTIyjL_Y_80_DX128_DY128_CX98_CY31.png" />
+      <file href="story_content/6EhBzEHrWz4_44100_48_0.mp3" />
+      <file href="mobile/6Ed5XxnctKi_80_DX88_DY88_CX67_CY69.png" />
+      <file href="story_content/6RS4xyiU3Ds_44100_48_0.mp3" />
+      <file href="mobile/6OTquONU2mB_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="story_content/5fRMdhrtsNC_44100_48_0.mp3" />
+      <file href="story_content/5YwmkiqLv3R_44100_48_0.mp3" />
+      <file href="mobile/6WnFnEUqt8Y_80_DX1036_DY1036_CX574_CY814.jpg" />
+      <file href="mobile/5tdcceEvBdw_80_DX1326_DY1326_CX802_CY793.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5qWmacx7kjw.png" />
+      <file href="mobile/Shape6F4Y2GuiL40.png" />
+      <file href="mobile/Shape6QovVUZvrkW.png" />
+      <file href="mobile/Shape5hqo8Qf0Qg8.png" />
+      <file href="mobile/Shape5rTOS3lJhg4.png" />
+      <file href="mobile/Shape6WSd2QdOVS0.png" />
+      <file href="mobile/Shape6GDTNfHijnF.png" />
+      <file href="mobile/Shape66ZJQ7hwYBn.png" />
+      <file href="mobile/Shape5ty4Y1YVDWZ.png" />
+      <file href="mobile/Shape63822ShzVaV.png" />
+      <file href="mobile/Shape67LHPAfubQY.png" />
+      <file href="mobile/Shape6qzWa6be000.png" />
+      <file href="mobile/Shape5tNo3dROX5w.png" />
+      <file href="mobile/Shape5eSmaRIbmqq.png" />
+      <file href="mobile/Shape5kqlxz6Xvgw.png" />
+      <file href="mobile/Shape6r9kpqDqNYu.png" />
+      <file href="mobile/Shape5eiVvOr3qZJ.png" />
+      <file href="mobile/Shape5dy4G07SDqb.png" />
+      <file href="mobile/Shape5bYgdPt7iRH.png" />
+      <file href="mobile/Shape6PtXJAzqpPL.png" />
+      <file href="mobile/Shape6o0r1SNZrN2.png" />
+      <file href="mobile/Shape64An4JStwWO.png" />
+      <file href="mobile/Shape6l2PK58pmw8.png" />
+      <file href="mobile/Shape6Kzv3ixi99V.png" />
+      <file href="mobile/Shape68loblPt9qm.png" />
+      <file href="mobile/Shape68oIQxfwc7x.png" />
+      <file href="mobile/Shape68rtOLm67lm.png" />
+      <file href="mobile/Shape6gWGV0TUpgG.png" />
+      <file href="mobile/Shape5sKbJd9ztBC.png" />
+      <file href="mobile/Shape6q7IesQk8Lh.png" />
+      <file href="mobile/Shape5wd4moNbGAt.png" />
+      <file href="mobile/Shape6PStsa9DjXG.png" />
+      <file href="mobile/Shape6n8Uknja6lQ.png" />
+      <file href="mobile/Shape6GDL93pSqnW.png" />
+      <file href="mobile/Shape6KcUK0ISF0u.png" />
+      <file href="mobile/Shape5trp0Akhcp3.png" />
+      <file href="mobile/Shape5XkWbSiaglE.png" />
+      <file href="mobile/Shape6Nds63ogQjJ.png" />
+      <file href="mobile/Shape6STjOiVkxDD.png" />
+      <file href="mobile/Shape5eeZsUUtoP4.png" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5k7pY3U0GiK.js" />
+      <file href="html5/data/js/5lAFEhkmFXF.js" />
+      <file href="html5/data/js/6ksAF1qUORP.js" />
+      <file href="html5/data/js/6ms5MRzI7Yd.js" />
+      <file href="html5/data/js/6Om8W7zBBdQ.js" />
+      <file href="html5/data/js/5kCWhThClkP.js" />
+      <file href="html5/data/js/5p9wP0iqCHD.js" />
+      <file href="html5/data/js/6PnDrKTETwf.js" />
+      <file href="html5/data/js/6ZUkDNTbe0q.js" />
+      <file href="html5/data/js/6eAYIj7wCMT.js" />
+      <file href="html5/data/js/6NNovHUnURU.js" />
+      <file href="html5/data/js/5l4QlC1NDjF.js" />
+      <file href="html5/data/js/6ca40M2vwmJ.js" />
+      <file href="html5/data/js/64zan7EZCiZ.js" />
+      <file href="html5/data/js/6nTB7Z4F2S7.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6Nmgx0UsuNl.js" />
+      <file href="html5/data/js/5oP280RMKET.js" />
+      <file href="html5/data/js/6YACl97eNgy.js" />
+      <file href="html5/data/js/5YBleHDH3dN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/62VYgL1Y19i.js" />
+      <file href="html5/data/js/5ezYtmgA8Tg.js" />
+      <file href="html5/data/js/6Bwy7vx9tzJ.js" />
+      <file href="html5/data/js/68OeZi5mcKR.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/5qotoLIxT35.js" />
+      <file href="html5/data/js/6HKETO6K5tn.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
